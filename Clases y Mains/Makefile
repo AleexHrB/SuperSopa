@@ -9,4 +9,4 @@ DHashing:
 	g++ -O2 diccDHashing.cc -o diccDHashing
 
 clean:
-	rm *.o
+	rm diccTrie diccSortedVector diccBloomFilter diccDHashing

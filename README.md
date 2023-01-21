@@ -6,7 +6,7 @@ Nota del proyecto: 9,0
 
 ### Autores
 - Alex Herrero
-- [Lluc Clavera] (https://github.com/LlucCC)
+- [Lluc Clavera](https://github.com/LlucCC)
 - Pol Forner
-- Walter Troiani
+- [Walter Troiani](https://github.com/eZWALT)
 

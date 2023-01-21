@@ -5,7 +5,7 @@ Link a los Samples: https://drive.google.com/drive/folders/1Hr1Lk4YuXuFAWaOND9It
 Nota del proyecto: 9,0
 
 ### Autores
-- Alex Herrero
+- [Alex Herrero](https://github.com/AleexHrB)
 - [Lluc Clavera](https://github.com/LlucCC)
 - Pol Forner
 - [Walter Troiani](https://github.com/eZWALT)
